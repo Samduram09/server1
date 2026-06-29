@@ -1,0 +1,58 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:enderman": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:wooden_pickaxe": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_log": 19,
+      "minecraft:spruce_sapling": 1,
+      "minecraft:cobblestone": 35,
+      "minecraft:crafting_table": 2
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 25,
+      "minecraft:crafting_table": 2,
+      "minecraft:wooden_pickaxe": 36,
+      "minecraft:spruce_sapling": 1
+    },
+    "minecraft:mined": {
+      "minecraft:spruce_log": 20,
+      "minecraft:crafting_table": 2,
+      "minecraft:spruce_leaves": 11,
+      "minecraft:stone": 35
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 330,
+      "minecraft:walk_one_cm": 34208,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 544,
+      "minecraft:damage_taken": 250,
+      "minecraft:damage_dealt": 216,
+      "minecraft:play_time": 15607,
+      "minecraft:jump": 224,
+      "minecraft:time_since_death": 305,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 22475,
+      "minecraft:fall_one_cm": 7700,
+      "minecraft:total_world_time": 15607,
+      "minecraft:fly_one_cm": 62335,
+      "minecraft:walk_on_water_one_cm": 2291,
+      "minecraft:crouch_one_cm": 757,
+      "minecraft:sneak_time": 344,
+      "minecraft:deaths": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:spruce_planks": 24,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 4790
+}
