@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "f793671d-e987-37ef-ac9d-c7e65cdf132b",
+    "name": "samdo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e9d31ac0-b271-32a0-8576-2665cb5fc3c3",
+    "name": "CanFake",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "921614da-5fc3-31a8-89da-8147df903404",
+    "name": "JonadeyoXW",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "094e96da-33ed-3ca5-b628-9435161ec09e",
+    "name": "prinnt",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
